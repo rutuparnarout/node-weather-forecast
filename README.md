@@ -11,8 +11,6 @@ npm run start
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please don't hesitate to open an issue or pull request. You can also send me a message on [LinkedIn](https://www.linkedin.com/in/rutuparna-rout/).
 
 ## License
